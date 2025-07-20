@@ -54,6 +54,34 @@ The dataset (`Daily Household Transactions.csv`) contains:
 ## 🔍 How to Run This Project
 
 1. Clone the repository:
-```bash
-git clone https://github.com/saurabh-badhani/Daily-Household-Transactions.git
-cd Daily-Household-Transactions
+
+  git clone https://github.com/saurabh-badhani/Daily-Household-Transactions.git
+
+  cd Daily-Household-Transactions
+
+2.Install required libraries:
+
+  pip install pandas matplotlib seaborn
+
+3.Run the analysis script:
+python Daily_Household_Transactions.py
+
+🛠 Tools & Libraries Used
+
+   a-Python
+
+   b-Pandas
+
+   c-Matplotlib
+
+   d-Seaborn
+
+   e-VS Code
+
+📎 License
+   
+  This project is for academic and personal learning purposes only.\
+
+👤 Author
+
+  Saurabh Badhani
